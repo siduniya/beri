@@ -26,7 +26,6 @@
     "http-auth": "^2.3.3",
     "portscanner": "^1.0.0",
     "webtorrent": "^0.95.1"
-     "node": "4.1.1"
   },
   "standard": {
     "ignore": [
@@ -42,3 +41,6 @@
     ]
   }
 }
+  "engines": {
+    "node": "4.1.1"
+  }
